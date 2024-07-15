@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.TeamMatches-container {
+  display: flex;
+  justify-content: center;
+}
+
+.recent-matches-list {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: top;
+  width: 100%;
+}
+.loader-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.team-banner {
+  width: 100%;
+}

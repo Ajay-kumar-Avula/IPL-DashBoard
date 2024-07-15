@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.each-team-container {
+  display: flex;
+  border: 2px solid #ffffff;
+  background-color: #ffffff33;
+  margin-right: 20px;
+  width: 250px;
+  height: 160px;
+  margin-bottom: 15px;
+  border-radius: 20px;
+  align-items: center;
+}
+.team-logo {
+  width: 100px;
+  height: 100px;
+}
+.team-name {
+  font-size: 20px;
+  font-weight: bold;
+  color: #ffffff;
+}
